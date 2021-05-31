@@ -1,6 +1,7 @@
 {
   "name": "~TODO~",
   "version": "0.0.1",
+  "engines": { "node": ">=16" },
   "scripts": {
     "dev": "svelte-kit dev",
     "build": "svelte-kit build",
